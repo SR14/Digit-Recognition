@@ -48,11 +48,11 @@ A template notebook is provided as `digit_recognition.ipynb`. While no code is i
 In a terminal or command window, navigate to the top-level project directory `digit_recognition/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook digit_recognition.ipynb
+ipython notebook mnist_mlp.ipynb
 ```  
 or
 ```bash
-jupyter notebook digit_recognition.ipynb
+jupyter notebook mnist_mlp.ipynb
 ```
 
 This will open the Jupyter Notebook software and notebook file in your browser.
